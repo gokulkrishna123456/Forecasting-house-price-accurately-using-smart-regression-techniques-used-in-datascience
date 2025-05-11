@@ -123,7 +123,7 @@ The goal is to develop a robust and interpretable regression model to predict ho
 | **E. Gokul Krishnan** | Data preprocessing, EDA               |
 | **M. Mani Maran**  | Feature engineering, model building      |
 
-**college name** : Sria Ramanujar Engineering College
+**college name** : Sri Ramanujar Engineering College
 
 ---
 
